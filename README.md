@@ -30,3 +30,9 @@ Podemos concluir el sistema allí, sin embargo en caso tal de verlo como una pá
 
 Con la siguiente relación:
 
+
+![Esquema](https://github.com/AnaAmaya200/Reto_2/blob/main/Esquema%20final.drawio.png)
+
+
+Nota: Notese las relaciones de HERENCIA y COMPOSICIÓN.
+Por ejemplo se espera heredar la función RedireccionaPagina() desde la super-clase PaginaWeb a Menú
