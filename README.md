@@ -21,4 +21,12 @@ Posterior a ello se considera la creación de las siguientes clases para los pro
 
 Así es como se plantean las relaciones:
 
+![Esquema](https://github.com/AnaAmaya200/Reto_2/blob/main/EsquemaBase.drawio.png)
+
+Podemos concluir el sistema allí, sin embargo en caso tal de verlo como una página web realmente funcional se plantea dicha super clase como Pagina web donde además de eso se tienen presentes las siguientes clases relacionadas a la inferfaz con la que interactúa el usuario.
+- Pagina web: es el Centro de control de todo lo ejecutado
+- Menú: para una navegación ordenada
+- Ajustes: Principalmente para que el usuario tenga control de la información que maneja la página
+
+Con la siguiente relación:
 
